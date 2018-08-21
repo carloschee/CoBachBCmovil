@@ -1,0 +1,21 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Login Activity -->
+    <string name="app_name">CoBach BC móvil</string>
+    <string name="login_placeholder_num_tel">Número de teléfono</string>
+    <string name="login_placeholder_pass">Contraseña</string>
+    <string name="login_switch_tutor">Soy tutor</string>
+    <string name="login_boton_ingresar">Ingresar</string>
+    <string name="login_error_ingreso">Los datos de ingreso son incorrectos, por favor revisa el número celular y la contraseña que ingresaste</string>
+    <string name="login_error_input_numCel">Debes ingresar un número de celular de 10 dígitos</string>
+
+    <!-- TutorSelecc Activity -->
+    <string name="tutorSelecc_titulo">Elige al alumno que deseas consultar</string>
+
+    <!-- Main Activity -->
+    <string name="main_noticias">Noticias</string>
+    <string name="main_calificaciones">Calificaciones</string>
+    <string name="main_inasistencias">Inasistencias</string>
+    <string name="main_incidencias">Incidencias</string>
+    <string name="main_salir">Cerrar sesión</string>
+    <string name="main_id_alumno"><xliff:g id="Matricula">%s</xliff:g> <xliff:g id="NombreAlumno">%s</xliff:g>\nPlantel: <xliff:g id="ClavePlantel">%s</xliff:g> <xliff:g id="Plantel">%s</xliff:g>, grupo <xliff:g id="Grupo">%s</xliff:g></string>
+</resources>
